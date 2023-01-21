@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lora&family=Nunito:wght@600&family=Pacifico&family=Raleway:ital,wght@1,100&family=Titillium+Web:wght@300&display=swap');
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1;
+}
+.emptydiv{
+    margin-top: 100px;
+}
+.emptycart{
+    margin-top: 100px;
+}
+.all-products{
+    margin-top: 100px;
+}
+.cartdiv{
+    margin-top: 100px;
+}
